@@ -21,3 +21,17 @@ dada a las diferentes propiedades. </li>
 <li> Identificar cuáles son los diferentes tipos de propiedades para determinar si pueden agruparse de tal forma que se puedan identificar características determinantes que permitan generar estrategias diferenciales. </li>
 
 </ul>
+
+<h1> Food Brand </h1>
+<hr>
+
+<ol>
+<li> Generar una presentación (deck en Google Slides, PPT, dashboard, presentación o
+cualquier tipo de formato) que te permita comunicar los principales resultados de tu
+análisis.
+<li> Puedes emplear cualquier programa o software que desees para el procesamiento
+de la información al igual que su visualización.
+<li> El objetivo principal es que nos pueda dar recomendaciones respecto al desempeño
+por tipo (columna G)
+<li> El caso tiene que ser compartido en inglés.
+</ol>
